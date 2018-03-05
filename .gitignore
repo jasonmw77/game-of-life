@@ -1,0 +1,33 @@
+# Java build artifacts class files
+*.class
+
+# other generated files
+bin/
+gen/
+build/
+
+# OSX files
+.DS_Store
+
+# Package Files #
+*.jar
+
+.metadata
+bin/
+build/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# IntelliJ
+/out/
+*.iml
+.idea
+.gradle
+.idea/
